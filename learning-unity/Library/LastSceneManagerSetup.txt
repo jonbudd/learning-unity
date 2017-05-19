@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/02-transformations.unity
+- path: Assets/scenes/03-brickTextureSamples.unity
   isLoaded: 1
   isActive: 1
