@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/03-brickTextureSamples.unity
+- path: Assets/scenes/04-beachAndMountain.unity
   isLoaded: 1
   isActive: 1
