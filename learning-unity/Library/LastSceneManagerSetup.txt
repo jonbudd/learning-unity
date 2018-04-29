@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/04-beachAndMountain.unity
+- path: Assets/scenes/05-trees-etc.unity
   isLoaded: 1
   isActive: 1
